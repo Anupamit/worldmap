@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/worldmap/static/css/main.31d6cfe0.css",
+    "main.js": "/worldmap/static/js/main.ea2e396b.js",
+    "static/media/india.webp": "/worldmap/static/media/india.0a61fa50221c5df1263b.webp",
+    "index.html": "/worldmap/index.html",
+    "main.ea2e396b.js.map": "/worldmap/static/js/main.ea2e396b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ea2e396b.js"
+  ]
+}
